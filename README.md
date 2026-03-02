@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m working on: an e-commerce website focused on dynamic pricing and automation.<br>I’m looking to collaborate with: developers interested in web apps, pricing models, or automation tools.<br>I’m looking for help with: improving my backend logic, database design, and deployment workflow.<br>I’m currently learning: MicroPython and Python for automation and web development.<br>Ask me about: dynamic pricing systems, Flask projects.<br>Fun fact: I’m a trained chef <br>
+<br>I’m a self-taught developer with a background in business and food, focused on building practical web tools for automation and dynamic pricing. I combine Python, web development, and data-driven logic to solve real-world problems, especially where software meets commercial decision-making. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/frederick-elledge-925196348)
